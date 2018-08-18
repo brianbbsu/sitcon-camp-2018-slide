@@ -174,7 +174,102 @@ output: index.html
 
 --
 
-# (待補)
+# 感動?
+
+--
+
+#  黑客松
+
+-- 
+
+### bot - 「我要吃什麼?」 (1)
+
+<div align="center" style="vertical-align: middle">
+  <img style="height:300px;padding-top:20px;" src="./img/app1.png" />
+</div>
+
+-- 
+
+### bot - 「我要吃什麼?」 (2)
+
+<div align="center" style="vertical-align: middle">
+  <img style="height:400px;padding-top:20px;" src="./img/app2.png" />
+</div>
+
+-- 
+
+### bot - 「我要吃什麼?」 (3)
+
+<div align="center" style="vertical-align: middle">
+  <img style="height:400px;padding-top:20px;" src="./img/app3.png" />
+</div>
+
+-- 
+
+### bot - 「我要吃什麼?」 (4)
+
+<div align="center" style="vertical-align: middle">
+  <img style="height:400px;padding-top:20px;" src="./img/app4.png" />
+</div>
+
+-- 
+
+### bot - 「我要吃什麼?」 (5)
+
+<div align="center" style="vertical-align: middle">
+  <img style="height:500px;padding-top:20px;" src="./img/app5.png" />
+</div>
+
+--
+
+# 為何感動?
+
+--
+
+### 分工
+
+- 後端 - telegram & google api
+- 後端 - 天氣 api & 圖片
+- 前端 - 界面設計
+- 專案說明文件
+- 投影片
+
+--
+
+###  ~~gIthUb~~ GitHub
+
+<div align="center" style="vertical-align: middle">
+  <img style="height:500px;padding-top:20px;" src="./img/github.png" />
+</div>
+
+--
+
+### 開發文件
+
+<div align="center" style="vertical-align: middle">
+  <img style="height:500px;padding-top:20px;" src="./img/docs.png" />
+</div>
+
+--
+
+### 簡報
+
+<div align="center" style="vertical-align: middle">
+  <img style="height:500px;padding-top:20px;" src="./img/slide.png" />
+</div>
+
+--
+
+### 再看一次前端
+
+<div align="center" style="vertical-align: middle">
+  <img style="height:400px;padding-top:20px;" src="./img/app4.png" />
+</div>
+
+--
+
+
+# 感謝
 
 --
 
